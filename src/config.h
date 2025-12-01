@@ -21,7 +21,7 @@
 #define US1_ECHO   3
 #define US2_TRIG   14
 #define US2_ECHO   15
-#define US3_TRIG   9
+#define US3_TRIG  47
 #define US3_ECHO   21
 
 // For Odometry (MUST MEASURE)
